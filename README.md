@@ -1,6 +1,6 @@
 # Regressao-linear-ll
 ### Sobre o projeto
-Prever o valor de um imoveis de acordo com 4 variáveis: Areá , distância até a praia, distância até a farmácia
+Prever o valor de um imoveis de acordo com 4 variáveis: Área , distância até a praia, distância até a farmácia
 
 ### Bibliotecas utilizadas 
 Pandas | Seaborn | Numpy | sklearn | statsmodels
