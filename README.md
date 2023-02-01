@@ -1,4 +1,4 @@
-### [Projeto: Análise e Previsão de valores imobiliários ]()  
+### [Projeto: Análise e Previsão de valores imobiliários ](https://github.com/Gabrieldevelopermax/analise-e-previsao-de-valores-imobiliarios/blob/main/Projeto/Regress%C3%A3o%20Linear.ipynb)  
 
 O mercado imobiliário vem sendo objeto de diversos estudos e pesquisas nos últimos tempos. A crise financeira que afeta a economia tem afetado significativamente os investimentos e ganhos advindos deste setor. Este cenário incentiva o aumento do interesse por estudos de previsão de demanda baseados em características deste mercado, dos imóveis e do entorno destes imóveis.
 
